@@ -2,7 +2,9 @@
 ## Purpose of the Analysis
 The purpose of this analysis is to evaluate NYC Citibike usage data to identify patterns and potential utilization in Des Moines, IA
 ## Results
-[link to dashboard](https://public.tableau.com/app/profile/melea.hetrick/viz/bikesharing_16493796263470/CitibikeAnalysis)
+[tableau dashboard](https://public.tableau.com/app/profile/melea.hetrick/viz/bikesharing_16493796263470/CitibikeAnalysis)
+
+
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 Results:
