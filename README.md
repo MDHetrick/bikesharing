@@ -10,32 +10,56 @@ Some visualizations were created using the original csv file, but the majority o
 All visualizations were created with tableau public and the story can be found at the following website: [CitibikeAnalysis](https://public.tableau.com/app/profile/melea.hetrick/viz/bikesharing_16493796263470/CitibikeAnalysis)
 
 ## Results
+### Checkout Times for Users
 
-![image](https://github.com/MDHetrick/xxx.png)
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/trip_duration.png)
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/trip_duration_h0.png)
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/trip_duration_h1h2.png)
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/trip_duration_h2h10.png)
 
 **Checkout Times for Users:** The vast majority of trips lasted less than one hour, with a peak at 5 minutes (146,752 trips) followed by a decrease in number of trips until a trip length of greater than 3 hours, where the number of trips are generally less than 10 for any trip length. 
 
-![image](https://github.com/MDHetrick/xxx.png)
+### Trips by Weekday Per Hour
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/trips_by_weekday_per_hour.png)
 
 **Trips by Weekday Per Hour:** The heaviest usage times during the week are 8-9am and 5-7pm, with Thursdays between 5 and 7pm being the heaviest usage during this timeframe and Wednesday and Friday 5-7 being lowest usage during this timeframe. On the weekends, there is not a concentrated usage pattern, but midday (about 10am-5pm) shows more usage than evenings and mornings. 
 
-![image](https://github.com/MDHetrick/xxx.png)
+### Mean Trip Duration by Birth Year
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/mean_trip_duration_by_birth_year.png)
 
 **Mean Trip Duration by Birth Year:** The birth years reported range from 1885 and 2003. Because the oldest living person alive in 2019 was born in 1903, all birth years earlier than 1903 can be excluded. With this data excluded, there is a slight increase in mean trip duration as birth year increases, especially with birth years after 1945. There is a spike in trip duration for the birth year 1969.
 
-![image](https://github.com/MDHetrick/xxx.png)
+### Gender Breakdown
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/gender_breakdown.png)
 
 **Gender Breakdown:** In August 2019, males accounted for about 65% of the trips, females accounted for about 25% of the trips, and those with an unknown gender accounting for about 10% of the trips.
 
-![image](https://github.com/MDHetrick/xxx.png)
+
+### Checkout Times by Gender
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/checkout_times_by_gender.png)
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/checkout_times_by_gender_h0.png)
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/checkout_times_by_gender_h1h2.png)
 
 **Checkout Times by Gender:** Following similar patterns to the general gender breakdown and checkout times for users visualizations, males accounted for the majority of the trips with a peak checkout time of 5 minutes (108,087 trips). Females accounted for the second highest number of trips peaking at 6 minutes (34,151 trips). Trips taken by those with unknown gender peaked at 11 minutes (7,389 trips), however this curve is far flatter than the male and female curves.
 
-![image](https://github.com/MDHetrick/xxx.png)
+### Trips by Gender (weekday per Hour)
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/trips_by_gender-weekday_per_hour.png)
 
 **Trips by Gender (weekday per Hour):** Following similar patterns to the general gender breakdown and trips by weekday per hour visualizations, heaviest usage times during the week are 8-9am and 5-7pm, with Thursdays between 5 and 7pm being the heaviest usage during this timeframe and Wednesday and Friday 5-7 being lowest usage during this timeframe. On the weekends, there is not a concentrated usage pattern, but midday (about 10am-5pm) shows more usage than evenings and mornings. Males account for heaviest usage, followed by females, and then unknown gender.
 
-![image](https://github.com/MDHetrick/xxx.png)
+### User Trips by Gender by Weekday
+
+![image](https://github.com/MDHetrick/bikesharing/blob/main/Visualizations/user_trips_by_gender_by_weekday.png)
 
 **User Trips by Gender by Weekday:** In general, male and female subscribers are more likely to utilize this service, while those of unknown gender were more commonly customers not subscribers. Of customers, Saturdays and Sundays are the days with heaviest usage. Of subscribers, Thursday is the day of the week with heaviest usage and Sundays and Wednesdays are the days with the lowest usage.
 
