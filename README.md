@@ -19,8 +19,10 @@ Links to individual visualizations created for the challenge:
 - [User Trips by Gender by Weekday](https://public.tableau.com/views/bikesharing_user_trips_by_gender_weekday/UserTripsbyGenderbyWeekday?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Links to individual visualizations created in the module and included for analysis: 
-- [Mean Trip Duration by Birth Year](https://public.tableau.com/views/bikesharing_trip_duration_birth_year/MeanTripDurationbyBirthYear?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)*
-- [Gender Breakdown](https://public.tableau.com/views/bikesharing_gender_breakdown/GenderBreakdown?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)*
+- [Mean Trip Duration by Birth Year](https://public.tableau.com/views/bikesharing_trip_duration_birth_year/MeanTripDurationbyBirthYear?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Gender Breakdown](https://public.tableau.com/views/bikesharing_gender_breakdown/GenderBreakdown?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
 ## Results
 ### Checkout Times for Users
 
