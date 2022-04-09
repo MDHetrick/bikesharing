@@ -7,8 +7,20 @@ NYC Citibike usage for August 2019 was evaluated. The source of the data can be 
 
 Some visualizations were created using the original csv file, but the majority of the visualizations were created using a file transformed using the following file: [NYC_CitiBike_Challenge.ipynb](https://github.com/MDHetrick/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
 
-All visualizations were created with tableau public and the story can be found at the following link: [Citibike Analysis](https://public.tableau.com/app/profile/melea.hetrick/viz/bikesharing_16493796263470/CitibikeAnalysis) /  [Citibike Analysis Alternate link](https://public.tableau.com/views/bikesharing_16493796263470/CitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+Visualizations were created with tableau public and added to a story which can be found at the following links: 
+- [Citibike Analysis](https://public.tableau.com/app/profile/melea.hetrick/viz/bikesharing_16493796263470/CitibikeAnalysis) 
+- [Citibike Analysis Alternate link](https://public.tableau.com/views/bikesharing_16493796263470/CitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+Links to individual visualizations created for the challenge: 
+- [Checkout Times for Users](https://public.tableau.com/views/bikesharing_checkout_times/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
+- [Trips by Weekday Per Hour](https://public.tableau.com/views/bikesharing_trips_by_weekday_per_hour/TripsbyWeekdayPerHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Checkout Times by Gender](https://public.tableau.com/views/bikesharing_checkout_times_by_gender/CheckoutTimesbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Trips by Gender (weekday per Hour)](https://public.tableau.com/views/bikesharing_trips_by_gender_weekday_per_hour/TripsbyGenderWeekdayPerHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [User Trips by Gender by Weekday](https://public.tableau.com/views/bikesharing_user_trips_by_gender_weekday/UserTripsbyGenderbyWeekday?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+Links to individual visualizations created in the module and included for analysis: 
+- [Mean Trip Duration by Birth Year](https://public.tableau.com/views/bikesharing_trip_duration_birth_year/MeanTripDurationbyBirthYear?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)*
+- [Gender Breakdown](https://public.tableau.com/views/bikesharing_gender_breakdown/GenderBreakdown?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)*
 ## Results
 ### Checkout Times for Users
 
