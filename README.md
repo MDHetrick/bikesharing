@@ -7,7 +7,7 @@ NYC Citibike usage for August 2019 was evaluated. The source of the data can be 
 
 Some visualizations were created using the original csv file, but the majority of the visualizations were created using a file transformed using the following file: [NYC_CitiBike_Challenge.ipynb](https://github.com/MDHetrick/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
 
-All visualizations were created with tableau public and the story can be found at the following website: [CitibikeAnalysis](https://public.tableau.com/app/profile/melea.hetrick/viz/bikesharing_16493796263470/CitibikeAnalysis)
+All visualizations were created with tableau public and the story can be found at the following link: [Citibike Analysis](https://public.tableau.com/app/profile/melea.hetrick/viz/bikesharing_16493796263470/CitibikeAnalysis) /  [Citibike Analysis Alternate link](https://public.tableau.com/views/bikesharing_16493796263470/CitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results
 ### Checkout Times for Users
